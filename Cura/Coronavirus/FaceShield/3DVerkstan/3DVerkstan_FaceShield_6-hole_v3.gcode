@@ -861,7 +861,7 @@ G1 X58.491 Y22.773 E62.37225
 G1 X58.666 Y22.193 E62.40248
 G1 X58.846 Y21.651 E62.43097
 G1 F1800 E59.43097
-;MESH:3DVerkstan_FaceShield_6-hole_v3.stl
+;MESH:Object 1
 G0 F9000 X69.562 Y34.564
 G0 X70.275 Y35.354
 G0 X70.842 Y35.752
@@ -4612,10 +4612,10 @@ G0 X181.596 Y155.577
 G0 X183.083 Y130.69
 ;TIME_ELAPSED:290.588310
 ;LAYER:1
-M140 S30
+M140 S40
 M106 S85
 ;TYPE:WALL-INNER
-;MESH:3DVerkstan_FaceShield_6-hole_v3.stl
+;MESH:Object 1
 G1 F1800 E344.51955
 G1 F2400 X182.997 Y129.677 E344.56182
 G1 X182.975 Y129.411 E344.57291
@@ -8320,7 +8320,7 @@ G0 X121.59 Y196.127
 ;LAYER:2
 M106 S170
 ;TYPE:WALL-INNER
-;MESH:3DVerkstan_FaceShield_6-hole_v3.stl
+;MESH:Object 1
 G1 F1800 E601.44052
 G1 F3000 X122.18 Y196.093 E601.46509
 G1 X123.541 Y195.981 E601.52186
@@ -12230,7 +12230,7 @@ G0 X109.615 Y195.017
 ;LAYER:3
 M106 S255
 ;TYPE:WALL-INNER
-;MESH:3DVerkstan_FaceShield_6-hole_v3.stl
+;MESH:Object 1
 G1 F1800 E798.10006
 G1 F3000 X113.709 Y194.979 E798.27028
 G1 X117.802 Y194.843 E798.44054
@@ -15907,7 +15907,7 @@ G0 X109.428 Y195.015
 ;TIME_ELAPSED:790.005762
 ;LAYER:4
 ;TYPE:WALL-INNER
-;MESH:3DVerkstan_FaceShield_6-hole_v3.stl
+;MESH:Object 1
 G1 F1800 E1006.15661
 G1 F3000 X113.522 Y194.981 E1006.32682
 G1 X117.616 Y194.849 E1006.49712
@@ -19662,7 +19662,7 @@ G0 X109.84 Y195.021
 ;TIME_ELAPSED:923.017029
 ;LAYER:5
 ;TYPE:WALL-INNER
-;MESH:3DVerkstan_FaceShield_6-hole_v3.stl
+;MESH:Object 1
 G1 F1800 E1214.62994
 G1 F3000 X113.933 Y194.976 E1214.83416
 G1 X118.026 Y194.833 E1215.03848
@@ -23328,7 +23328,7 @@ G0 X109.84 Y195.021
 ;TIME_ELAPSED:1055.832324
 ;LAYER:6
 ;TYPE:WALL-INNER
-;MESH:3DVerkstan_FaceShield_6-hole_v3.stl
+;MESH:Object 1
 G1 F1800 E1465.02116
 G1 F3000 X113.933 Y194.976 E1465.25941
 G1 X118.026 Y194.833 E1465.49779
@@ -27102,7 +27102,7 @@ G0 X109.84 Y195.021
 ;TIME_ELAPSED:1188.265136
 ;LAYER:7
 ;TYPE:WALL-INNER
-;MESH:3DVerkstan_FaceShield_6-hole_v3.stl
+;MESH:Object 1
 G1 F1800 E1757.08663
 G1 F3000 X113.933 Y194.976 E1757.32488
 G1 X118.026 Y194.833 E1757.56326
@@ -30777,7 +30777,7 @@ G0 X109.84 Y195.021
 ;TIME_ELAPSED:1321.223353
 ;LAYER:8
 ;TYPE:WALL-INNER
-;MESH:3DVerkstan_FaceShield_6-hole_v3.stl
+;MESH:Object 1
 G1 F1800 E2049.36945
 G1 F3000 X113.933 Y194.976 E2049.60769
 G1 X118.026 Y194.833 E2049.84607
@@ -34530,7 +34530,7 @@ G0 X109.84 Y195.021
 ;TIME_ELAPSED:1453.904239
 ;LAYER:9
 ;TYPE:WALL-INNER
-;MESH:3DVerkstan_FaceShield_6-hole_v3.stl
+;MESH:Object 1
 G1 F1800 E2341.58263
 G1 F3000 X113.933 Y194.976 E2341.82088
 G1 X118.026 Y194.833 E2342.05926
@@ -38282,7 +38282,7 @@ G0 X109.84 Y195.021
 ;TIME_ELAPSED:1587.346626
 ;LAYER:10
 ;TYPE:WALL-INNER
-;MESH:3DVerkstan_FaceShield_6-hole_v3.stl
+;MESH:Object 1
 G1 F1800 E2633.82534
 G1 F3000 X113.933 Y194.976 E2634.06359
 G1 X118.026 Y194.833 E2634.30196
@@ -42049,7 +42049,7 @@ G0 X109.84 Y195.021
 ;TIME_ELAPSED:1720.572882
 ;LAYER:11
 ;TYPE:WALL-INNER
-;MESH:3DVerkstan_FaceShield_6-hole_v3.stl
+;MESH:Object 1
 G1 F1800 E2925.97017
 G1 F3000 X113.933 Y194.976 E2926.20842
 G1 X118.026 Y194.833 E2926.44679
@@ -45692,7 +45692,7 @@ G0 X109.84 Y195.021
 ;TIME_ELAPSED:1853.709606
 ;LAYER:12
 ;TYPE:WALL-INNER
-;MESH:3DVerkstan_FaceShield_6-hole_v3.stl
+;MESH:Object 1
 G1 F1800 E3218.34142
 G1 F3000 X113.933 Y194.976 E3218.57966
 G1 X118.026 Y194.833 E3218.81804
@@ -49430,7 +49430,7 @@ G0 X109.84 Y195.021
 ;TIME_ELAPSED:1986.858922
 ;LAYER:13
 ;TYPE:WALL-INNER
-;MESH:3DVerkstan_FaceShield_6-hole_v3.stl
+;MESH:Object 1
 G1 F1800 E3510.50157
 G1 F3000 X113.933 Y194.976 E3510.73982
 G1 X118.026 Y194.833 E3510.9782
@@ -53095,7 +53095,7 @@ G0 X109.84 Y195.021
 ;TIME_ELAPSED:2120.100992
 ;LAYER:14
 ;TYPE:WALL-INNER
-;MESH:3DVerkstan_FaceShield_6-hole_v3.stl
+;MESH:Object 1
 G1 F1800 E3802.64589
 G1 F3000 X113.933 Y194.976 E3802.88414
 G1 X118.026 Y194.833 E3803.12252
@@ -56860,7 +56860,7 @@ G0 X109.839 Y195.021
 ;TIME_ELAPSED:2253.028660
 ;LAYER:15
 ;TYPE:WALL-INNER
-;MESH:3DVerkstan_FaceShield_6-hole_v3.stl
+;MESH:Object 1
 G1 F1800 E4094.52125
 G1 F3000 X110.698 Y195.013 E4094.57125
 G1 X113.934 Y194.976 E4094.75961
@@ -60654,7 +60654,7 @@ G0 X109.839 Y195.021
 ;TIME_ELAPSED:2469.211062
 ;LAYER:16
 ;TYPE:WALL-INNER
-;MESH:3DVerkstan_FaceShield_6-hole_v3.stl
+;MESH:Object 1
 G1 F1800 E228.6548
 G1 F3000 X110.513 Y195.015 E228.68282
 G1 X113.932 Y194.976 E228.82498
@@ -64508,7 +64508,7 @@ G0 X109.84 Y195.021
 ;TIME_ELAPSED:2602.611327
 ;LAYER:17
 ;TYPE:WALL-INNER
-;MESH:3DVerkstan_FaceShield_6-hole_v3.stl
+;MESH:Object 1
 G1 F1800 E436.89907
 G1 F3000 X113.933 Y194.976 E437.06925
 G1 X118.026 Y194.833 E437.23952
@@ -68310,7 +68310,7 @@ G0 X109.84 Y195.021
 ;TIME_ELAPSED:2746.149871
 ;LAYER:18
 ;TYPE:WALL-INNER
-;MESH:3DVerkstan_FaceShield_6-hole_v3.stl
+;MESH:Object 1
 G1 F1800 E647.67743
 G1 F3000 X113.933 Y194.976 E647.84761
 G1 X118.026 Y194.833 E648.01788
@@ -72132,7 +72132,7 @@ G0 X109.84 Y195.021
 ;TIME_ELAPSED:2888.980624
 ;LAYER:19
 ;TYPE:WALL-INNER
-;MESH:3DVerkstan_FaceShield_6-hole_v3.stl
+;MESH:Object 1
 G1 F1800 E857.92804
 G1 F3000 X113.933 Y194.976 E858.09822
 G1 X118.026 Y194.833 E858.26849
@@ -75945,21 +75945,21 @@ M84 X Y E ;Disable all steppers but Z
 M82 ;absolute extrusion mode
 M104 S0
 ;End of Gcode
-;SETTING_3 {"extruder_quality": ["[general]\\nversion = 4\\nname = PLA_NoStringi
-;SETTING_3 ng\\ndefinition = creality_ender5\\n\\n[metadata]\\ntype = quality_ch
-;SETTING_3 anges\\nposition = 0\\nsetting_version = 11\\nquality_type = adaptive
-;SETTING_3 \\nintent_category = default\\n\\n[values]\\nbottom_layers = 3\\nbrim
-;SETTING_3 _line_count = 10\\ncool_fan_speed = 100\\ninfill_sparse_density = 0.0
-;SETTING_3 1\\nline_width = 0.5\\nmaterial_print_temperature = 215\\nmeshfix_max
-;SETTING_3 imum_resolution = 0.5\\nmeshfix_maximum_travel_resolution = 0.05\\nre
-;SETTING_3 traction_amount = 3\\nretraction_extrusion_window = 6\\nretraction_sp
-;SETTING_3 eed = 30\\nskirt_line_count = 2\\nspeed_layer_0 = 30\\nspeed_print = 
-;SETTING_3 50\\nspeed_support = 60\\nspeed_topbottom = 50\\nspeed_travel = 150\\
-;SETTING_3 nspeed_wall = 50\\nsupport_angle = 50\\nsupport_infill_rate = 10\\nto
-;SETTING_3 p_bottom_thickness = 1\\ntop_layers = 3\\nwall_line_count = 5\\n\\n"]
-;SETTING_3 , "global_quality": "[general]\\nversion = 4\\nname = PLA_NoStringing
-;SETTING_3 \\ndefinition = creality_ender5\\n\\n[metadata]\\ntype = quality_chan
-;SETTING_3 ges\\nsetting_version = 11\\nquality_type = adaptive\\n\\n[values]\\n
-;SETTING_3 adhesion_type = skirt\\nlayer_height = 0.24\\nlayer_height_0 = 0.24\\
-;SETTING_3 nmaterial_bed_temperature = 30\\nmaterial_bed_temperature_layer_0 = 5
-;SETTING_3 0\\nsupport_enable = False\\nsupport_type = buildplate\\n\\n"}
+;SETTING_3 {"global_quality": "[general]\\nversion = 4\\nname = PLA_NoStringing\
+;SETTING_3 \ndefinition = creality_ender5\\n\\n[metadata]\\nquality_type = adapt
+;SETTING_3 ive\\nsetting_version = 11\\ntype = quality_changes\\n\\n[values]\\na
+;SETTING_3 dhesion_type = skirt\\nlayer_height = 0.24\\nlayer_height_0 = 0.24\\n
+;SETTING_3 material_bed_temperature = 40\\nmaterial_bed_temperature_layer_0 = 50
+;SETTING_3 \\nsupport_enable = False\\nsupport_type = buildplate\\n\\n", "extrud
+;SETTING_3 er_quality": ["[general]\\nversion = 4\\nname = PLA_NoStringing\\ndef
+;SETTING_3 inition = creality_ender5\\n\\n[metadata]\\nquality_type = adaptive\\
+;SETTING_3 nposition = 0\\nsetting_version = 11\\nintent_category = default\\nty
+;SETTING_3 pe = quality_changes\\n\\n[values]\\nbottom_layers = 3\\nbrim_line_co
+;SETTING_3 unt = 10\\ncool_fan_speed = 100\\ninfill_sparse_density = 0.01\\nline
+;SETTING_3 _width = 0.5\\nmaterial_print_temperature = 215\\nmeshfix_maximum_res
+;SETTING_3 olution = 0.5\\nmeshfix_maximum_travel_resolution = 0.05\\nretraction
+;SETTING_3 _amount = 3\\nretraction_extrusion_window = 6\\nretraction_speed = 30
+;SETTING_3 \\nskirt_line_count = 2\\nspeed_layer_0 = 30\\nspeed_print = 50\\nspe
+;SETTING_3 ed_support = 60\\nspeed_topbottom = 50\\nspeed_travel = 150\\nspeed_w
+;SETTING_3 all = 50\\nsupport_angle = 50\\nsupport_infill_rate = 10\\ntop_bottom
+;SETTING_3 _thickness = 1\\ntop_layers = 3\\nwall_line_count = 5\\n\\n"]}
